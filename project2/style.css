@@ -1,0 +1,88 @@
+h1{
+	font-family: gotham, arial, helvetica, sans-serif;
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	padding-top: 20px;
+
+
+}
+
+h2{
+
+	font-family: gotham, arial, helvetica, sans-serif;
+	text-transform: uppercase;
+	color: #0982C6;
+	letter-spacing: 1px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	margin-left: 350px;
+	margin-right: 350px;
+}
+
+h3{
+
+	font-family: gotham, helvetica, sans-serif;
+	text-transform: uppercase;
+	color: #F8971F;
+	
+}
+
+h4{
+
+	font-family: calibri, helvetica, sans-serif;
+	color: #7CFC00;
+	text-transform: uppercase;
+}
+
+p{
+	font-family: calibri, helvetica, sans-serif;
+	color: #D3D3D3;
+}
+
+li{
+	font-family: calibri, helvetica, sans-serif;
+	color: #FFFFFF;
+
+}
+
+.Web{
+	background-color: #2F4F4F;
+	padding-top: 45px;
+	padding-bottom: 45px;
+	padding-left: 200px;
+	padding-right: 200px;
+	margin-left: 350px;
+	margin-right: 350px;
+
+}
+
+.CSS{
+	background-color:#008080;
+	padding-top: 45px;
+	padding-bottom: 45px;
+	padding-left: 200px;
+	padding-right: 200px;
+	margin-left: 350px;
+	margin-right: 350px;
+
+}
+
+.HC{
+
+	background-color: #404040;
+	padding-top: 45px;
+	padding-bottom: 45px;
+	padding-left: 200px;
+	padding-right: 200px;
+	margin-left: 350px;
+	margin-right: 350px;
+
+}
+
+img { 
+    display: inline-block;
+    padding: 5px;
+    margin-left: 50px;   
+
+}
